@@ -39,7 +39,10 @@ h3{
 
 #img-div{
     justify-content: center;
-    width: 100%;
+}
+#image{
+  max-width: 500px;
+  display: block;
 }
 
 
@@ -83,7 +86,7 @@ h3{
     }
   }
 
-#tribute_link{
+#tribute-link{
     color: green;
     
 }
