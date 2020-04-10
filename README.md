@@ -1,4 +1,4 @@
-This is a Stephen Haeking Tribute Page. Is a part of the Freecodecamp Website Curriculum. Responsive Web Desing Projects 
+This is a Stephen Haeking Tribute Page. Is a part of the Freecodecamp Website Curriculum. Responsive Web Desing Projects. 
 
 https://www.freecodecamp.org
 
